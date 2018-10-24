@@ -1,3 +1,1 @@
-# python-django-blog
-use python django and mysql in blog
-if you want know something about django structure,you can learn this example
+#简单博文存储，按天排序
